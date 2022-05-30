@@ -14,3 +14,12 @@ Podcast.java <br />
 PodcastView.java <br />
 PodcastModel.java <br />
 PodcastController.java <br />
+PodcastMessage.java <br />
+PodcastTests.java <br />
+
+## Usable RSS Feeds
+https://feeds.megaphone.fm/ADL9840290619 <br />
+https://rss.art19.com/apology-line <br />
+
+## Final Presentation
+https://youtu.be/EQuO1gVVtWM ~ 5 min. Unfortunately the video cut off some visibility.
